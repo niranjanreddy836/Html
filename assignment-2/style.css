@@ -1,0 +1,10 @@
+.para1{
+    color: blue;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 1%;
+}
+.para1::first-letter{
+    font-size: 50px;
+    color: crimson;
+}
